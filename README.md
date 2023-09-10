@@ -29,4 +29,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar este programa, sigue estos
 
 <br>
 Modelo de Bloques genereado
+
 ![mb](https://github.com/Rsorianoclever/Synthetic_Block_Model/assets/80426763/d23536ef-23c6-4143-97da-86f321d91177)
